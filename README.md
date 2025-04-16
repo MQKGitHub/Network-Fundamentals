@@ -21,8 +21,8 @@ Each topic has its own folder in this repo with clear, beginner-friendly notes a
 ## 🧠 Overview
 
 ### 🌍 What is Networking?
-- Coming soon...
-- Coming soon...
+- Learned the basics of networking, including how devices connect and communicate within different types of networks like LAN, WAN, and the internet.  
+- Explored key concepts such as IP addressing, subnetting, and network protocols like TCP/IP that enable seamless data transfer and communication.
 
 ### 🏠 Intro to LAN
 - Coming soon...

@@ -13,7 +13,7 @@ Each topic has its own folder in this repo with clear, beginner-friendly notes a
 | What is Networking?    | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/What-is-Networking)     |
 | Intro to LAN           | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Intro-to-LAN)           |
 | OSI Model              | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/OSI-Model)              |
-| Packets & Frames       | ⏭️ Upcoming     | Not yet available                                                    |
+| Packets & Frames       | ⏭️ Upcoming     | [View Write-Up](https://github.com/MQKGitHub/Packets-and-Frames)     |
 | Extending Your Network | ⏳ Queued       | Not yet available                                                    |
 
 ---

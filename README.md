@@ -25,8 +25,8 @@ Each topic has its own folder in this repo with clear, beginner-friendly notes a
 - Explored key concepts such as IP addressing, subnetting, and network protocols like TCP/IP that enable seamless data transfer and communication.
 
 ### 🏠 Intro to LAN
-- Coming soon...
-- Coming soon...
+- Learned how devices communicate on a Local Area Network (LAN) using switches, MAC addresses, and ARP.
+- Explored how data travels within a LAN and how devices identify each other without needing the Internet.
 
 ### 🧱 OSI Model
 - Coming soon...

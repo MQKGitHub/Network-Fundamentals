@@ -28,9 +28,9 @@ Each topic has its own folder in this repo with clear, beginner-friendly notes a
 - Learned how devices communicate on a Local Area Network (LAN) using switches, MAC addresses, and ARP.
 - Explored how data travels within a LAN and how devices identify each other without needing the Internet.
 
-### 🧱 OSI Model
-- Coming soon...
-- Coming soon...
+### 🧱 OSI Model  
+- Learned how the 7 layers of the OSI Model work together to move data across networks.  
+- Explored key concepts like encapsulation, IP vs MAC addressing, and protocols like TCP, UDP, and DNS.
 
 ### 📦 Packets & Frames
 - Coming soon...

@@ -13,8 +13,8 @@ Each topic has its own folder in this repo with clear, beginner-friendly notes a
 | What is Networking?    | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/What-is-Networking)     |
 | Intro to LAN           | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Intro-to-LAN)           |
 | OSI Model              | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/OSI-Model)              |
-| Packets & Frames       | ⏭️ Upcoming     | [View Write-Up](https://github.com/MQKGitHub/Packets-and-Frames)     |
-| Extending Your Network | ⏳ Queued       | Not yet available                                                    |
+| Packets & Frames       | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Packets-and-Frames)     |
+| Extending Your Network | ⏭️ Upcoming     | Not yet available                                                    |
 
 ---
 
@@ -32,9 +32,9 @@ Each topic has its own folder in this repo with clear, beginner-friendly notes a
 - Learned how the 7 layers of the OSI Model work together to move data across networks.  
 - Explored key concepts like encapsulation, IP vs MAC addressing, and protocols like TCP, UDP, and DNS.
 
-### 📦 Packets & Frames
-- Coming soon...
-- Coming soon...
+### 📦 Packets and Frames  
+- Learned how packets and frames work together to send data across a network.  
+- Explored key concepts like TCP/UDP protocols, the three-way handshake, ports, and packet structure.
 
 ### 📡 Extending Your Network
 - Coming soon...

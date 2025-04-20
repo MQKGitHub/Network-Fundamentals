@@ -14,7 +14,7 @@ Each topic has its own folder in this repo with clear, beginner-friendly notes a
 | Intro to LAN           | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Intro-to-LAN)           |
 | OSI Model              | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/OSI-Model)              |
 | Packets & Frames       | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Packets-and-Frames)     |
-| Extending Your Network | ⏭️ Upcoming     | Not yet available                                                    |
+| Extending Your Network | ✅ Completed    | [View Write-Up](https://github.com/MQKGitHub/Extending-Your-Network) |
 
 ---
 
@@ -36,9 +36,9 @@ Each topic has its own folder in this repo with clear, beginner-friendly notes a
 - Learned how packets and frames work together to send data across a network.  
 - Explored key concepts like TCP/UDP protocols, the three-way handshake, ports, and packet structure.
 
-### 📡 Extending Your Network
-- Coming soon...
-- Coming soon...
+### 📡 Extending Your Network  
+- Explored how routers, switches, VLANs, firewalls, and VPNs help expand and secure modern networks.  
+- Practised configuring firewall rules and sending packets through a simulated network to understand real-world traffic flow.
 
 ---
 

@@ -1,4 +1,4 @@
-# 🌐 Network Fundamentals
+## 🌐 Network Fundamentals
 
 This section of my TryHackMe learning journey explores the **core building blocks of computer networking** — how devices talk to each other, how data moves across networks, and how networks are structured and expanded.
 
@@ -6,7 +6,7 @@ Each topic has its own folder in this repo with clear, beginner-friendly notes a
 
 ---
 
-## 📚 Topic Index
+### 📚 Topic Index
 
 | Topic Name             | Status         | Link                                                                 |
 |------------------------|----------------|----------------------------------------------------------------------|
@@ -18,7 +18,7 @@ Each topic has its own folder in this repo with clear, beginner-friendly notes a
 
 ---
 
-## 🧠 Overview
+### 🧠 Overview
 
 ### 🌍 What is Networking?
 - Learned the basics of networking, including how devices connect and communicate within different types of networks like LAN, WAN, and the internet.  
